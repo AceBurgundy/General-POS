@@ -2,8 +2,6 @@
 
 **TillTap** is a minimalist, open-source Point of Sale (PoS) system built with Flutter. It's designed for small business owners who need a simple way to manage products, track sales, and handle checkouts — all from a phone.
 
----
-
 ## ✨ Features
 
 - 🛍️ **Product Management**  
@@ -18,15 +16,11 @@
 - 📦 **Sales History Export**  
   Export transaction history for record-keeping or accounting.
 
----
-
 ## 🚫 Limitations
 
 Currently, **TillTap does not support**:
 - Barcode scanning (camera integration pending)
 - Bluetooth receipt printing
-
----
 
 ## 🌱 Open for Contributions
 
@@ -37,8 +31,6 @@ This app is built with extensibility in mind. Contributors are welcome to help i
 - 🌐 Cloud syncing for multi-device support  
 - 📊 Analytics & dashboards
 
----
-
 ## 🚀 Getting Started
 
 ```bash
@@ -48,19 +40,13 @@ flutter pub get
 flutter run
 ````
 
----
-
 ## 🛠️ Tech Stack
 
 * **Flutter** (Dart)
 * Local storage (e.g., Hive or SharedPreferences)
 
----
-
 ## 📄 License
 
 MIT License – free to use, modify, and distribute.
-
----
 
 **Made with ❤️ for local businesses.**
