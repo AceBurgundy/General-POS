@@ -34,7 +34,7 @@ This app is built with extensibility in mind. Contributors are welcome to help i
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/tilltap.git
+git clone https://github.com/Aceburgundy/tilltap.git
 cd tilltap
 flutter pub get
 flutter run
